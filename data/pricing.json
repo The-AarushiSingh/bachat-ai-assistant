@@ -1,0 +1,28 @@
+{
+  "chatgpt": {
+    "plus": {
+      "monthly": 20
+    },
+    "team": {
+      "monthly": 30
+    }
+  },
+
+  "copilot": {
+    "individual": {
+      "monthly": 10
+    },
+    "business": {
+      "monthly": 19
+    }
+  },
+
+  "claude": {
+    "pro": {
+      "monthly": 20
+    },
+    "max": {
+      "monthly": 100
+    }
+  }
+}
